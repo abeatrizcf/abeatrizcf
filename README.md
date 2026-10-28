@@ -1,10 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Ana%20Beatriz%20da%20Cunha%20Figueiredo&fontSize=36&fontColor=8B00FF&fontAlignY=45&desc=Data%20Science%20%7C%20Software%20Developer%20%7C%20QA&descSize=16&descAlignY=80&descColor=8B00FF" width="100%" alt="Ana Beatriz da Cunha Figueiredo">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Ana%20Beatriz%20da%20Cunha%20Figueiredo&fontSize=36&fontColor=6C3BAA&fontAlignY=45&desc=Data%20Science%20%7C%20Software%20Developer%20%7C%20QA&descSize=16&descAlignY=80&descColor=C4A7F5" width="100%" alt="Ana Beatriz da Cunha Figueiredo">
 
 <br>
 
+<p>Construindo soluções com dados, código e qualidade.</p>
 
 <a href="https://github.com/abeatrizcf">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -101,4 +102,20 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
       <sub>React</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36" alt="n8n"><br>
+      <sub>n8n</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python"><br>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
+
+**Ferramentas adicionais:** Material UI · Figma · PyAutoGUI.
+
+---
