@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:EDE7F6,100:D8C7F0&height=160&section=header&text=Ana%20Beatriz%20da%20Cunha%20Figueiredo&fontSize=34&fontColor=4B245F&fontAlignY=40&desc=Data%20Science%20%7C%20Software%20Development%20%7C%20QA&descSize=14&descAlignY=70&descColor=76558F&font=Merriweather&animation=fadeIn" width="100%" alt="Ana Beatriz da Cunha Figueiredo">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1026&height=170&section=header&text=Ana%20Beatriz%20da%20Cunha%20Figueiredo&fontSize=32&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Science%20%7C%20Software%20Development%20%7C%20QA&descSize=14&descAlignY=68&descColor=B9A0FF&font=Merriweather&animation=fadeIn" width="100%" alt="Ana Beatriz da Cunha Figueiredo">
 
 
 
