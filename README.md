@@ -84,14 +84,12 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
       <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="36" height="36" alt="Cucumber"><br>
       <sub>Cucumber</sub>
     </td>
-    <td align="center" width="130">
-      <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"><br>
-      <sub>Git</sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub"><br>
-      <sub>GitHub</sub>
-    </td>
+   ```html
+<td align="center" width="130">
+  <img src="https://img.icons8.com/fluency/48/checklist.png" width="40" height="40" alt="BDD"><br>
+  <sub>BDD</sub>
+</td>
+```
   </tr>
 </table>
 
