@@ -1,64 +1,119 @@
 <div align="center">
 
-# 👩🏻‍💻 Ana Beatriz da Cunha Figueiredo
+# Ana Beatriz da Cunha Figueiredo
 
-### Engenharia da Computação | Ciência de Dados | Machine Learning | QA | Desenvolvimento de Software
+### Engenharia da Computação · Ciência de Dados · Machine Learning · QA · Desenvolvimento de Software
 
+<br>
 
-<a href="https://github.com/abeatrizcf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/anabeatriz33/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/abeatrizcf">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/anabeatriz33/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
 ---
 
-## 💜 Sobre mim
+## ✦ Sobre mim
 
-Sou bacharel em **Engenharia da Computação pela Universidade Federal de Sergipe (UFS)** e tenho interesse em Ciência de Dados, Machine Learning e Qualidade de Software (QA).
+Sou bacharel em **Engenharia da Computação pela Universidade Federal de Sergipe (UFS)** e atuo com desenvolvimento de software, automação e qualidade de software, enquanto aprofundo meus conhecimentos em Ciência de Dados e Machine Learning.
 
-Minha experiência envolve desenvolvimento de software, análise de dados, testes de qualidade e automação de processos.
+Gosto de investigar problemas, explorar dados e desenvolver soluções que combinem tecnologia, pensamento analítico e qualidade.
 
-- 📊 Análise e exploração de dados.
-- 🤖 Machine Learning e modelagem preditiva.
-- 🧪 Testes funcionais, exploratórios e de regressão.
-- 🎭 Automação de testes com Playwright.
-- 📝 BDD, Gherkin e elaboração de cenários de teste.
-- 🐍 Python, Pandas, Scikit-learn e SQL.
-- ⚙️ Automações com Python e n8n.
-- 🏥 Interesse em tecnologia aplicada à área da saúde.
+- Ciência de Dados e análise exploratória.
+- Machine Learning e modelagem preditiva.
+- Testes funcionais, exploratórios e de regressão.
+- Automação de testes com Playwright e práticas de BDD.
+- Desenvolvimento web com React.
+- Automações de processos com Python e n8n.
+- Interesse na aplicação de tecnologia à área da saúde.
 
 ---
-## 🛠️ Tecnologias e ferramentas
 
-### 📊 Ciência de Dados
+## ✦ Tecnologias e ferramentas
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI"/>
-</p>
+### ✦ Ciência de Dados
 
-### 🧪 Quality Assurance
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python"><br>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/pandas/150458" width="36" height="36" alt="Pandas"><br>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/numpy/013243" width="36" height="36" alt="NumPy"><br>
+      <sub>NumPy</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" height="36" alt="Scikit-learn"><br>
+      <sub>Scikit-learn</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL"><br>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="36" height="36" alt="Power BI"><br>
+      <sub>Power BI</sub>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="40" alt="Playwright"/>
-  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="Cucumber"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
-</p>
+### ✦ Quality Assurance — QA
 
-**Práticas:** Testes funcionais · Testes exploratórios · Regressão · BDD · Gherkin
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="36" height="36" alt="Playwright"><br>
+      <sub>Playwright</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="36" height="36" alt="Cucumber"><br>
+      <sub>Cucumber</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="36" height="36" alt="Git"><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/github/181717" width="36" height="36" alt="GitHub"><br>
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
 
-### 💻 Desenvolvimento e automação
+**Práticas:** testes funcionais · testes exploratórios · testes de regressão · BDD · Gherkin · documentação de defeitos.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="45" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n"/>
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
-</p>
+### ✦ Desenvolvimento e automação
 
-**Ferramentas:** n8n · PyAutoGUI
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React"><br>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" height="36" alt="JavaScript"><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36" alt="n8n"><br>
+      <sub>n8n</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python"><br>
+      <sub>Python</sub>
+    </td>
+  </tr>
+</table>
+
+**Ferramentas adicionais:** Material UI · Redux · PyAutoGUI.
+
+---
