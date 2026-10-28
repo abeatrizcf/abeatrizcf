@@ -31,44 +31,36 @@ Minha experiência envolve desenvolvimento de software, análise de dados, teste
 
 ## 🛠️ Tecnologias e ferramentas
 
-### 💻 Desenvolvimento
-
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
-
 ### 📊 Ciência de Dados
 
-<div>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45" alt="PostgreSQL"/>
+</p>
 
-### 🧪 Quality Assurance — QA
+**Bibliotecas:** Pandas · NumPy · Scikit-learn
 
-<div>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber">
-<img src="https://img.shields.io/badge/BDD-6C63FF?style=for-the-badge" alt="BDD">
-<img src="https://img.shields.io/badge/Gherkin-5B8C5A?style=for-the-badge" alt="Gherkin">
-</div>
+**Visualização:** Power BI
 
-### ⚙️ Automação
+### 🧪 Quality Assurance
 
-<div>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-<img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI">
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=playwright&theme=dark" height="45" alt="Playwright"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
+</p>
 
----
+**Práticas:** Testes funcionais · Testes exploratórios · Regressão · BDD · Gherkin
 
+### 💻 Desenvolvimento e automação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
+</p>
+
+**Ferramentas:** n8n · PyAutoGUI
 ## 🚀 Projetos em destaque
 
 ### 🏥 Predição de readmissão hospitalar
