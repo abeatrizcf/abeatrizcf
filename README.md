@@ -28,24 +28,24 @@ Minha experiência envolve desenvolvimento de software, análise de dados, teste
 - 🏥 Interesse em tecnologia aplicada à área da saúde.
 
 ---
-
 ## 🛠️ Tecnologias e ferramentas
 
 ### 📊 Ciência de Dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40" alt="Power BI"/>
 </p>
-
-**Bibliotecas:** Pandas · NumPy · Scikit-learn
-
-**Visualização:** Power BI
 
 ### 🧪 Quality Assurance
 
 <p>
-  <img src="https://skillicons.dev/icons?i=playwright&theme=dark" height="45" alt="Playwright"/>
+  <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="40" alt="Playwright"/>
+  <img src="https://cdn.simpleicons.org/cucumber/23D96C" height="40" alt="Cucumber"/>
   <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="45" alt="GitHub"/>
 </p>
@@ -57,51 +57,8 @@ Minha experiência envolve desenvolvimento de software, análise de dados, teste
 <p>
   <img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" alt="React"/>
   <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="45" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/>
 </p>
 
 **Ferramentas:** n8n · PyAutoGUI
-## 🚀 Projetos em destaque
-
-### 🏥 Predição de readmissão hospitalar
-
-Projeto de Ciência de Dados para investigar fatores associados à readmissão hospitalar em até 30 dias e desenvolver um modelo capaz de estimar o risco de readmissão.
-
-**Tecnologias:** Python, Pandas e Scikit-learn.
-
-*Status: em desenvolvimento.*
-
-### 🧪 Automação de testes com Playwright
-
-Projetos voltados à automação de testes de aplicações web, organização de cenários e aplicação de práticas de BDD.
-
-**Tecnologias:** Playwright, Cucumber e Gherkin.
-
-### 📊 Análise de vendas com SQL
-
-Exploração de dados de vendas utilizando consultas e índices para investigar o comportamento das consultas e o desempenho do banco de dados.
-
-**Tecnologia:** SQL.
-
-### 🤖 Automações com Python e n8n
-
-Desenvolvimento e testes de automações de processos, incluindo fluxos com agentes de inteligência artificial.
-
-**Tecnologias:** Python, n8n e PyAutoGUI.
-
----
-
-## 🔍 Qualidade de Software
-
-- **Testes funcionais e exploratórios:** investigação do comportamento das aplicações.
-- **Testes de regressão:** verificação de funcionalidades após alterações.
-- **Automação de testes:** criação e organização de testes com Playwright.
-- **BDD e Gherkin:** elaboração de cenários baseados no comportamento esperado.
-- **Registro de defeitos:** documentação de passos para reprodução e evidências.
-- **IA aplicada a QA:** utilização de ferramentas de IA como apoio à elaboração de cenários e casos de teste.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
