@@ -62,9 +62,8 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
    <td align="center" width="110">
   <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" width="36" height="36" alt="Power BI"><br>
   <sub>Power BI</sub>
-</td>
-    <td align="center" width="130">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Estatística"><br>
+<td align="center" width="130">
+  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Matplotlib-Dark.svg" width="40" height="40" alt="Estatística"><br>
   <sub>Estatística</sub>
 </td>
   </tr>
