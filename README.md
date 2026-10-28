@@ -70,8 +70,8 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
 
 <table>
   <tr>
- <td align="center" width="130">
-  <img src="https://cdn.simpleicons.org/playwright/2EAD33" width="36" height="36" alt="Playwright"><br>
+<td align="center" width="130">
+  <img src="https://raw.githubusercontent.com/microsoft/playwright/main/packages/web/src/assets/playwright-logo.svg" width="40" height="40" alt="Playwright"><br>
   <sub>Playwright</sub>
 </td>
     <td align="center" width="130">
