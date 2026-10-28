@@ -1,4 +1,4 @@
-```html
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Ana%20Beatriz&fontSize=48&fontColor=B49AFF&fontAlignY=55&desc=COMPUTER%20ENGINEERING%20%7C%20DATA%20%7C%20QUALITY%20%7C%20SOFTWARE&descSize=11&descAlignY=85&descColor=9CA3AF" width="100%" alt="Ana Beatriz — Computer Engineering, Data, Quality and Software">
