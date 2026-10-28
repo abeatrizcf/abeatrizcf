@@ -67,8 +67,7 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
   <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40" height="40" alt="Estatística"><br>
   <sub>Estatística</sub>
 </td>
-```
-```
+
   </tr>
 </table>
 
@@ -84,7 +83,7 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
       <img src="https://cdn.simpleicons.org/cucumber/23D96C" width="36" height="36" alt="Cucumber"><br>
       <sub>Cucumber</sub>
     </td>
-   ```html
+  
 <td align="center" width="130">
   <img src="https://img.icons8.com/fluency/48/checklist.png" width="40" height="40" alt="BDD"><br>
   <sub>BDD</sub>
