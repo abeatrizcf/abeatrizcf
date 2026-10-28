@@ -18,23 +18,21 @@
 
 ## ➜ Sobre mim
 
-Sou bacharel em **Engenharia da Computação pela Universidade Federal de Sergipe (UFS)** e atuo com desenvolvimento de software, automação e qualidade de software, enquanto aprofundo meus conhecimentos em Ciência de Dados e Machine Learning.
+Sou bacharel em **Engenharia da Computação pela Universidade Federal de Sergipe (UFS)** e atuo com desenvolvimento de software, Ciência de Dados, Machine Learning, automação e Qualidade de Software.
 
-Gosto de investigar problemas, explorar dados e desenvolver soluções que combinem tecnologia, pensamento analítico e qualidade.
-
-- Ciência de Dados e análise exploratória.
-- Machine Learning e modelagem preditiva.
+- Ciência de Dados e Machine Learning.
+- Análise de Dados e BI.
+-  Desenvolvimento web com React.
 - Testes funcionais, exploratórios e de regressão.
 - Automação de testes com Playwright e práticas de BDD.
-- Desenvolvimento web com React.
 - Automações de processos com Python e n8n.
 - Interesse na aplicação de tecnologia à área da saúde.
 
 ---
 
-## ➜ Tecnologias e ferramentas
+### ➜ Tecnologias e ferramentas
 
-### ➜ Ciência de Dados
+#### ➜ Ciência de Dados
 
 <table>
   <tr>
@@ -69,7 +67,7 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
   </tr>
 </table>
 
-### ➜ Quality Assurance — QA
+#### ➜ Quality Assurance — QA
 
 <table>
   <tr>
@@ -90,7 +88,7 @@ Gosto de investigar problemas, explorar dados e desenvolver soluções que combi
 
 **Práticas:** testes funcionais · testes exploratórios · testes de regressão · BDD · Gherkin · documentação de defeitos.
 
-### ➜ Desenvolvimento e automação
+#### ➜ Desenvolvimento de Software e automação
 
 <table>
   <tr>
