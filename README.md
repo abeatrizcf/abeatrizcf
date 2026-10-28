@@ -18,7 +18,7 @@
 
 ## ➜ Sobre mim
 
-Sou bacharel em **Engenharia da Computação pela Universidade Federal de Sergipe (UFS)** e atuo com desenvolvimento de software, Ciência de Dados, Machine Learning, automação e Qualidade de Software.
+Sou bacharel em **Engenharia da Computação pela Universidade Federal de Sergipe (UFS)** e atuo com desenvolvimento de software, Ciência de Dados, Machine Learning, Automações e Qualidade de Software.
 
 - Ciência de Dados e Machine Learning.
 - Análise de Dados e BI.
