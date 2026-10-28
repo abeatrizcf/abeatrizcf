@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ana%20Beatriz%20da%20Cunha%20Figueiredo&fontSize=36&fontColor=4B245F&fontAlignY=45&desc=Data%20Scientist%20%7C%20Software%20Developer%20%7C%20QA&descSize=15&descAlignY=80&descColor=BCA0D5&font=Merriweather" width="100%" alt="Ana Beatriz da Cunha Figueiredo">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2D1B40,100:6D28D9&height=160&section=header&text=Ana%20Beatriz%20da%20Cunha%20Figueiredo&fontSize=34&fontColor=FFFFFF&fontAlignY=40&desc=Data%20Science%20%7C%20Software%20Development%20%7C%20QA&descSize=14&descAlignY=70&descColor=E9D5FF&font=Merriweather&animation=fadeIn" width="100%" alt="Ana Beatriz da Cunha Figueiredo">
+
 
 <br>
 
